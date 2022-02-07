@@ -1,0 +1,5 @@
+#Increasing tradition cost scaling	
+
+	NGameplay = {
+		TRADITION_COST_MULT_TRADITION_GROUP		= 0.75		# each adopted group adds +X% to total cost
+	}

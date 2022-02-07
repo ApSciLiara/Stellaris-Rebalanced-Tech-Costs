@@ -1,0 +1,23 @@
+# REBALANCED TECH COSTS
+@tier1cost1 = 2000
+@tier1cost2 = 2500
+@tier1cost3 = 3500
+
+@tier2cost1 = 6000
+@tier2cost2 = 9000
+@tier2cost3 = 12500
+
+@tier3cost1 = 22500
+@tier3cost2 = 40000
+@tier3cost3 = 70000
+
+@tier4cost1 = 150000
+@tier4cost2 = 300000
+@tier4cost3 = 500000
+
+@tier5cost1 = 1000000
+@tier5cost2 = 1500000
+@tier5cost3 = 2500000
+
+@repeatableTechBaseCost = 1000000
+@repeatableTechLevelCost = 250000
