@@ -21,3 +21,34 @@
 
 @repeatableTechBaseCost = 1000000
 @repeatableTechLevelCost = 250000
+
+# REBALANCED TECH COSTS - Guili's Techs
+
+@tier0cost1 = 250
+@tier0cost2 = 500
+@tier0cost3 = 1000
+
+@tier1cost4 = 3300
+@tier1cost5 = 3600
+
+@tier2cost4 = 6600
+@tier2cost5 = 7200
+
+@tier3cost4 = 13300
+@tier3cost5 = 14600
+
+@tier4cost4 = 26000
+@tier4cost5 = 29000
+
+@tier5cost4 = 54000
+@tier5cost5 = 60000
+
+# REBALANCED TECH COSTS - ESC NEXT
+
+@ESC_TECH_tier6_cost1 = 64000
+@ESC_TECH_tier6_cost2 = 80000
+@ESC_TECH_tier6_cost3 = 96000
+
+@ESC_TECH_tier7_cost1 = 128000
+@ESC_TECH_tier7_cost2 = 160000
+@ESC_TECH_tier7_cost3 = 192000
