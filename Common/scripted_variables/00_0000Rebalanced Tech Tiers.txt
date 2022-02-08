@@ -5,7 +5,7 @@
 
 @tier2cost1 = 6000
 @tier2cost2 = 9000
-@tier2cost3 = 12500
+@tier2cost3 = 12000
 
 @tier3cost1 = 22500
 @tier3cost2 = 40000
@@ -28,20 +28,20 @@
 @tier0cost2 = 500
 @tier0cost3 = 1000
 
-@tier1cost4 = 3300
-@tier1cost5 = 3600
+@tier1cost4 = 4000
+@tier1cost5 = 4500
 
-@tier2cost4 = 6600
-@tier2cost5 = 7200
+@tier2cost4 = 15000
+@tier2cost5 = 18000
 
-@tier3cost4 = 13300
-@tier3cost5 = 14600
+@tier3cost4 = 90000
+@tier3cost5 = 110000
 
-@tier4cost4 = 26000
-@tier4cost5 = 29000
+@tier4cost4 = 650000
+@tier4cost5 = 750000
 
-@tier5cost4 = 54000
-@tier5cost5 = 60000
+@tier5cost4 = 3000000
+@tier5cost5 = 4000000
 
 # REBALANCED TECH COSTS - ESC NEXT
 
